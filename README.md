@@ -1,4 +1,4 @@
-# Azure Always Encrypted (Database Engine) 
+# Azure Encrypted Column (SQL Database) 
 
  # Application
 	
