@@ -1,8 +1,9 @@
-# Azure Encrypted Column (SQL Database) 
+# Azure Encrypted Column (SQL Database) Spring Boot Applications
 
  # Application
 	
- This library demonstrate how to protect sensitive data (such as password, credit cards, etc) in Azure SQL database.
+ This library demonstrate how to protect sensitive data (such as password, credit cards, etc) in Azure SQL database,
+ read and register the encrypted data with a spring boot application.
 		
  ![Screenshot from running application](img/architecture.png?raw=true "Screenshot insert")
 			
